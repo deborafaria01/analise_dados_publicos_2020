@@ -13,7 +13,6 @@
 ## Origem dos Dados
 - [Divulgação de Candidaturas e Contas Eleitorais](https://divulgacandcontas.tse.jus.br/divulga/#/)
 - [Trasparência | Governo do Estado de São Paulo](https://www.saopaulo.sp.gov.br/coronavirus/transparencia/)
-- [Recursos Federais destinados ao combate da pandemia de COVID-19](http://www.portaltransparencia.gov.br/coronavirus)
 
 **Obs.:** Os arquivos analisados encontram-se na pasta database.
 
