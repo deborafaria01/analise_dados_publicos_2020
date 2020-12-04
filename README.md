@@ -5,10 +5,10 @@
 **Aviso Legal**: Este notebook tem finalidade exclusivamente didática. Desse modo, está excluída a garantia ou responsabilidade de qualquer tipo, por exemplo, de precisão, confiabilidade, completude e atualidade das informações.
 
 ## Instalação
+- Python 3.0
 - Matplotlib: pip install matplotlib
 - Pandas: pip install pandas
-- pip3 install jupyter
-- Python 3.0
+- Jupyter Notebook:pip3 install jupyter
 
 ## Origem dos Dados
 
