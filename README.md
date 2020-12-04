@@ -16,6 +16,7 @@
 - [Trasparência | Governo do Estado de São Paulo](https://www.saopaulo.sp.gov.br/coronavirus/transparencia/)
 
 **Obs.:** Alguns dos arquivos analisados encontram-se na pasta database e outros no link abaixo.
+
 [Link para download do arquivo COVID.csv](https://drive.google.com/file/d/1ehy7XcVEQX0XPUZTfNpKCS3H598EFpkQ/view?usp=sharing)
 
 ## Autor(a) 
