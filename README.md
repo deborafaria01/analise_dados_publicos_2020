@@ -13,8 +13,9 @@
 ## Origem dos Dados
 - [Divulgação de Candidaturas e Contas Eleitorais](https://divulgacandcontas.tse.jus.br/divulga/#/)
 - [Trasparência | Governo do Estado de São Paulo](https://www.saopaulo.sp.gov.br/coronavirus/transparencia/)
+- [Link Drive](
 
-**Obs.:** Os arquivos analisados encontram-se na pasta database.
+**Obs.:** Alguns dos arquivos analisados encontram-se na pasta database e outros no Drive.
 
 ## Autor(a) 
 - [Debora Conceição Faria](https://www.linkedin.com/in/debora-faria2109/)
