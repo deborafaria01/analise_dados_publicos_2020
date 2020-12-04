@@ -1,6 +1,6 @@
-# Análise de Dados Públicos com Python
+## Análise de Dados Públicos com Python
 
-## Tema: Eleições e Gastos com Covid Comparado aos Gastos com Campanhas - São Paulo - Ano 2020
+**Tema: Eleições e Gastos com Covid Comparado aos Gastos com Campanhas - São Paulo - Ano 2020**
 
 **Aviso Legal**: Este notebook tem finalidade exclusivamente didática. Desse modo, está excluída a garantia ou responsabilidade de qualquer tipo, por exemplo, de precisão, confiabilidade, completude e atualidade das informações.
 
@@ -16,4 +16,4 @@
 - [Recursos Federais destinados ao combate da pandemia de COVID-19](http://www.portaltransparencia.gov.br/coronavirus)
 
 ## Autor(a) 
-[Debora Conceição Faria](https://www.linkedin.com/in/debora-faria2109/)
+- [Debora Conceição Faria](https://www.linkedin.com/in/debora-faria2109/)
