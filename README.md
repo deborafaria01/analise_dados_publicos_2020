@@ -1,6 +1,6 @@
 ## Análise de Dados Públicos com Python
 
-**Tema: Eleições e Gastos com Covid Comparado aos Gastos com Campanhas - São Paulo - Ano 2020**
+**Tema: Eleições e Gastos com Covid Comparado aos Gastos com Campanhas - São Paulo/SP - Ano 2020**
 
 **Aviso Legal**: Este notebook tem finalidade exclusivamente didática. Desse modo, está excluída a garantia ou responsabilidade de qualquer tipo, por exemplo, de precisão, confiabilidade, completude e atualidade das informações.
 
