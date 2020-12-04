@@ -8,7 +8,7 @@
 - Python 3.0
 - Matplotlib: pip install matplotlib
 - Pandas: pip install pandas
-- Jupyter Notebook:pip3 install jupyter
+- Jupyter Notebook: pip3 install jupyter
 
 ## Origem dos Dados
 
